@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LdUnitTest</string>
+    <string name="unit_test_ago">前</string>
+    <string name="unit_test_second">秒</string>
+    <string name="unit_test_week">周</string>
+    <string name="unit_test_day">天</string>
+    <string name="unit_test_hour">时</string>
+    <string name="unit_test_minute">分</string>
+    <string name="unit_test_device_has_expired">设备已过期</string>
+    <string name="unit_text_change_text_before">Change text before</string>
+    <string name="unit_text_change_text_after">Change text after</string>
+    <string name="unit_text_hot_key">Hot Key</string>
+</resources>
